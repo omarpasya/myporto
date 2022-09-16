@@ -1,0 +1,79 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav a  {
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main {
+    background-image: url("../gambar/Group1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+main article {
+    padding: 25rem;
+    color: white;
+    margin-right: 60px;
+}
+
+.myskill {
+    display: flex;
+    background-color: aqua;
+}
+
+.writter {
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+
+.writter h2 {
+    margin-left: 6rem;
+}
+
+.writter img {
+    margin: 20px;
+    margin-top: 6rem;
+}
+
+.photos1 img {
+    margin-right: 150px;
+    margin-top: 10rem;
+}
+
+.judul{
+text-align: center;
+}
+
+.cardCustom {
+    display: flex;
+    justify-content: center;
+}
+
+.cardCustom img{
+    width: 400px;
+    margin: 0px 30px;
+}
+
+footer {
+    background-color: brown;;
+    height: 10rem;
+}
+
+.item {
+  text-align: center;
+}
+
+.item img {
+    margin: 0px 20px;
+    margin-top: 4rem;
+}
+
+footer .text p{
+    text-decoration: none;
+    text-align: center;
+}
